@@ -13,5 +13,5 @@ https://www.kaggle.com/datasets/rabieelkharoua/alzheimers-disease-dataset
 
 ## Students
 Jouri Abdullah 445200329
-Hams AlRashid 
-Laura Alreqaibah 445202378
+Hams AlRashid  445202378
+Laura Alraqeeba 445202378
