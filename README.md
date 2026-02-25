@@ -12,12 +12,7 @@ The dataset used in this project was obtained from Kaggle:
 Alzheimer’s Disease Dataset  
 https://www.kaggle.com/datasets/rabieelkharoua/alzheimers-disease-dataset
 
-## Project Goal
 
-The goal of this project is to:
-- Apply classification techniques to predict Alzheimer’s diagnosis.
-- Apply clustering techniques to group patients based on similar characteristics.
-- Compare different models and evaluate their performance.
 ## Students
 Jouri Abdullah 445200329
 Hams AlRashid  445201055
